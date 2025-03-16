@@ -8,7 +8,7 @@ export function ProgressCardColored() {
         Monthly goal
       </Text>
       <Text fz="lg" fw={500} className={classes.stats}>
-        $5.431 / $10.000
+        $9.999 / $10.000
       </Text>
       <Progress
         value={54.31}
